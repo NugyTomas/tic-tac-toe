@@ -19,7 +19,7 @@ python main.py
 - Input validation
 - Play again option
 
-## Screenshot
+## Screenshots
 
 ### Start Screen
 
