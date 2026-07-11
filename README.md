@@ -6,7 +6,7 @@ A command-line Tic Tac Toe game written in Python. Play against a computer or an
 
 ## Demo
 
-![Demo](screenshots/demo.gif)
+<img src="/screenshots/demo.gid" width="250" height="250"/>
 
 ## How to Run
 
