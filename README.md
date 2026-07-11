@@ -2,6 +2,12 @@
 
 A command-line Tic Tac Toe game written in Python. Play against a computer or another player directly in the terminal.
 
+--
+
+## Demo
+
+![Demo](screenshots/demo.gif)
+
 ## How to Run
 
 Clone the repository and run:
